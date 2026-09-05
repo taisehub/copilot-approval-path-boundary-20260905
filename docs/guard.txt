@@ -1,3 +1,4 @@
+# Documentation example
 name: protected configuration
 owner: platform-team
 enabled: true
@@ -7,4 +8,4 @@ rule-two: enabled
 rule-three: enabled
 rule-four: enabled
 rule-five: enabled
-rule-six: documented
+rule-six: enabled
