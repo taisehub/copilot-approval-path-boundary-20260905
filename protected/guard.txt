@@ -1,1 +1,10 @@
-protected path content
+name: protected configuration
+owner: platform-team
+enabled: true
+mode: enforced
+rule-one: enabled
+rule-two: enabled
+rule-three: enabled
+rule-four: enabled
+rule-five: enabled
+rule-six: enabled
