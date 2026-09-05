@@ -1,1 +1,1 @@
-protected path content
+protected path content updated as documentation
