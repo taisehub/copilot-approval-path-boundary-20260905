@@ -1,0 +1,1 @@
+allowed documentation path
